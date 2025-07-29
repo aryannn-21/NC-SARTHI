@@ -8,7 +8,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 // Configs
 const OWNER_ID = '1328577531024117800';
-const CHANNEL_ID = '1384288395634933800';
+const CHANNEL_ID = '1387518343539458150';
 const cooldown = new Map();
 
 // On bot ready
